@@ -1,0 +1,14 @@
+.important {
+    color: red;
+    border: 5px solid black;
+}
+.unimportant {
+    color: blue;
+    border: 5px solid black;
+}
+.cat-climate {
+    background-color: darkolivegreen;
+    
+    padding: 60px 40px;
+    margin: 60px;
+}
